@@ -53,7 +53,7 @@ topics:
     
   - name: freeBSD
     web_url: https://github.com/topics/freebsd
-    image_url: https://www.freebsd.org/images/logo-red.png
+    image_url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/01/freebsd-devil-284x300.jpg
 
   - name: Darwin
     web_url: https://github.com/topics/darwin
